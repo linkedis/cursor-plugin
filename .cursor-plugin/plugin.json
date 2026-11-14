@@ -8,7 +8,7 @@
     "email": "info@linked.is"
   },
   "homepage": "https://linked.is",
-  "repository": "https://github.com/linkedis/grok-bot-plugin",
+  "repository": "https://github.com/linkedis/cursor-plugin",
   "license": "MIT",
   "keywords": ["linked.is", "short-links", "bio-pages", "analytics", "qr-code", "mcp"],
   "logo": "assets/logo.svg",

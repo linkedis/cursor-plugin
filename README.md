@@ -1,6 +1,6 @@
 # linked.is for Cursor
 
-[linked.is](https://linked.is) is a link platform for branded short links, link-in-bio pages, QR codes, and click analytics. This repository is the Cursor Marketplace plugin. It connects Cursor agents, including Grok, to the linked.is MCP server at `https://linked.is/mcp`.
+[linked.is](https://linked.is) is a link platform for branded short links, link-in-bio pages, QR codes, and click analytics. This repository ([linkedis/cursor-plugin](https://github.com/linkedis/cursor-plugin)) is the Cursor Marketplace plugin. It connects Cursor to the linked.is MCP server at `https://linked.is/mcp`.
 
 With an API token, the agent can create and manage short links, read click analytics, and edit bio-page buttons. The free creator tools work with the token left empty, and they do not need an account.
 
