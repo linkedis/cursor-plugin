@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "linkedis": {
+      "url": "https://linked.is/mcp",
+      "headers": {
+        "Authorization": "Bearer ${LINKEDIS_API_TOKEN}"
+      }
+    }
+  }
+}
