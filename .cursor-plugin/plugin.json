@@ -1,0 +1,26 @@
+{
+  "name": "linkedis",
+  "displayName": "linked.is",
+  "version": "1.0.0",
+  "description": "Create and manage linked.is short links, bio pages, QR codes, and click analytics. Free creator tools work without an API token.",
+  "author": {
+    "name": "linked.is",
+    "email": "info@linked.is"
+  },
+  "homepage": "https://linked.is",
+  "repository": "https://github.com/linkedis/grok-bot-plugin",
+  "license": "MIT",
+  "keywords": ["linked.is", "short-links", "bio-pages", "analytics", "qr-code", "mcp"],
+  "logo": "assets/logo.svg",
+  "variables": {
+    "type": "object",
+    "properties": {
+      "LINKEDIS_API_TOKEN": {
+        "type": "string",
+        "title": "linked.is API token",
+        "description": "Token from linked.is Settings → API. It starts with lnk_. Leave this empty to use only the free tools, which do not need an account.",
+        "default": ""
+      }
+    }
+  }
+}
